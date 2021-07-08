@@ -1,0 +1,9 @@
+apiVersion: 1
+
+providers:
+  - name: 'local-filesystem'
+    type: file
+    updateIntervalSeconds: 10
+    allowUiUpdates: true
+    options:
+      path: /var/lib/grafana/dashboards

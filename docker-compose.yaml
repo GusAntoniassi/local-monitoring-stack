@@ -1,0 +1,70 @@
+version: '3'
+services:
+  netdata:
+    image: netdata/netdata:v1.31.0
+    container_name: netdata
+    ports:
+      - 19999:19999
+    restart: unless-stopped
+    cap_add:
+      - SYS_PTRACE
+    security_opt:
+      - apparmor:unconfined
+    volumes:
+      - netdataconfig:/etc/netdata
+      - netdatalib:/var/lib/netdata
+      - netdatacache:/var/cache/netdata
+      - ./netdata/apps_groups.conf:/etc/netdata/apps_groups.conf
+      - /etc/passwd:/host/etc/passwd:ro
+      - /etc/group:/host/etc/group:ro
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+      - /etc/os-release:/host/etc/os-release:ro
+
+  grafana:
+    image: grafana/grafana:8.0.4
+    container_name: grafana
+    ports:
+      - 3000:3000
+    restart: unless-stopped
+    volumes:
+        - grafana_data:/var/lib/grafana
+        - ./grafana/provisioning:/etc/grafana/provisioning
+        - ./grafana/dashboards:/var/lib/grafana/dashboards
+    env_file:
+      - ./grafana/config.env
+    depends_on:
+      - prometheus
+
+  prometheus:
+    image: prom/prometheus:v2.28.1
+    container_name: prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--storage.tsdb.retention.time=7d'
+    ports:
+      - 9090:9090
+    restart: unless-stopped
+    volumes:
+      - ./prometheus:/etc/prometheus
+      - prometheus_data:/prometheus
+      
+  proxy:
+    image: nginx
+    ports:
+      - 80:80
+    restart: unless-stopped
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+      - ./monitoring-home:/www/data
+    depends_on:
+      - grafana
+      - prometheus
+      - netdata
+volumes:
+  netdataconfig:
+  netdatalib:
+  netdatacache:
+  grafana_data:
+  prometheus_data:
