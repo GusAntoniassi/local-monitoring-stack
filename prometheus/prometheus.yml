@@ -38,3 +38,15 @@ scrape_configs:
         env: localhost
         group: monitoring
         source: localhost
+
+  - job_name: 'loki'
+    # metrics_path defaults to '/metrics'
+    # scheme defaults to 'http'.
+    static_configs:
+      - targets: ['loki:3100']
+
+  - job_name: 'promtail'
+    # metrics_path defaults to '/metrics'
+    # scheme defaults to 'http'.
+    static_configs:
+      - targets: ['promtail:9080']
