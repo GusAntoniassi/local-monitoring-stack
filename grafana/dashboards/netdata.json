@@ -16,17 +16,13 @@
   "editable": true,
   "gnetId": 12555,
   "graphTooltip": 1,
-  "id": 12,
-  "iteration": 1625741097711,
+  "id": 4,
+  "iteration": 1626345378653,
   "links": [],
   "panels": [
     {
       "collapsed": false,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -143,10 +139,6 @@
     {
       "collapsed": false,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -268,10 +260,6 @@
     {
       "collapsed": false,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -474,10 +462,6 @@
     {
       "collapsed": false,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -594,10 +578,6 @@
     {
       "collapsed": false,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -800,10 +780,6 @@
     {
       "collapsed": false,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -1009,10 +985,6 @@
     {
       "collapsed": false,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -1404,10 +1376,6 @@
     {
       "collapsed": false,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -1518,10 +1486,6 @@
     {
       "collapsed": false,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -1727,10 +1691,6 @@
     {
       "collapsed": false,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -1842,10 +1802,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -1946,10 +1902,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -2050,10 +2002,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -2233,10 +2181,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -2337,10 +2281,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -2444,10 +2384,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -2551,10 +2487,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -2659,10 +2591,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -2766,10 +2694,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -2869,10 +2793,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -2971,10 +2891,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -3280,10 +3196,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -3469,10 +3381,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -3573,10 +3481,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -4432,10 +4336,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -4625,10 +4525,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -4995,10 +4891,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -5098,10 +4990,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -5201,10 +5089,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -5388,10 +5272,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -6248,10 +6128,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -6600,10 +6476,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -6870,10 +6742,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -7056,10 +6924,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -7159,10 +7023,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -7342,10 +7202,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -7528,10 +7384,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -7712,10 +7564,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -7817,10 +7665,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -8004,10 +7848,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -8107,10 +7947,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -8377,10 +8213,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -8480,10 +8312,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -8668,10 +8496,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -9269,10 +9093,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -9455,10 +9275,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -9560,10 +9376,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -9619,7 +9431,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_cpu_percentage_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_cpu_percentage_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -9714,7 +9526,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_cpu_user_percentage_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_cpu_user_percentage_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -9809,7 +9621,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_cpu_system_percentage_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_cpu_system_percentage_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -9867,10 +9679,6 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -9918,7 +9726,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_preads_KiB_persec_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_preads_KiB_persec_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -10001,7 +9809,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_pwrites_KiB_persec_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_pwrites_KiB_persec_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -10084,7 +9892,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_lreads_KiB_persec_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_lreads_KiB_persec_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -10167,7 +9975,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_lwrites_KiB_persec_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_lwrites_KiB_persec_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -10250,7 +10058,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_files_open_files_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_files_open_files_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -10303,10 +10111,6 @@
     {
       "collapsed": false,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
@@ -10366,7 +10170,7 @@
       "steppedLine": false,
       "targets": [
         {
-          "expr": "netdata_${vjob=\"$job\", iew}_mem_MiB_average{instance=~'$instance'}",
+          "expr": "netdata_${view}_mem_MiB_average{job=\"$job\", instance=~'$instance'}",
           "format": "time_series",
           "intervalFactor": 1,
           "legendFormat": "{{dimension}}",
@@ -10462,7 +10266,7 @@
       "steppedLine": false,
       "targets": [
         {
-          "expr": "netdata_${vjob=\"$job\", iew}_vmem_MiB_average{instance=~'$instance'}",
+          "expr": "netdata_${view}_vmem_MiB_average{job=\"$job\", instance=~'$instance'}",
           "format": "time_series",
           "intervalFactor": 1,
           "legendFormat": "{{dimension}}",
@@ -10556,7 +10360,7 @@
       "steppedLine": false,
       "targets": [
         {
-          "expr": "netdata_${vjob=\"$job\", iew}_minor_faults_page_faults_persec_average{instance=~'$instance'}",
+          "expr": "netdata_${view}_minor_faults_page_faults_persec_average{job=\"$job\", instance=~'$instance'}",
           "format": "time_series",
           "intervalFactor": 1,
           "legendFormat": "{{dimension}}",
@@ -10609,15 +10413,11 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 161
+        "y": 245
       },
       "id": 773,
       "panels": [
@@ -10660,7 +10460,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_threads_threads_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_threads_threads_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -10744,7 +10544,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_processes_processes_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_processes_processes_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -10828,7 +10628,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_pipes_open_pipes_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_pipes_open_pipes_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -10881,15 +10681,11 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 168
+        "y": 252
       },
       "id": 816,
       "panels": [
@@ -10932,7 +10728,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_swap_MiB_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_swap_MiB_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -11015,7 +10811,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_major_faults_page_faults_persec_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_major_faults_page_faults_persec_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -11067,15 +10863,11 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 175
+        "y": 259
       },
       "id": 837,
       "panels": [
@@ -11120,7 +10912,7 @@
           "steppedLine": false,
           "targets": [
             {
-              "expr": "netdata_${vjob=\"$job\", iew}_sockets_open_sockets_average{instance=~'$instance'}",
+              "expr": "netdata_${view}_sockets_open_sockets_average{job=\"$job\", instance=~'$instance'}",
               "format": "time_series",
               "intervalFactor": 1,
               "legendFormat": "{{dimension}}",
@@ -11173,15 +10965,11 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 182
+        "y": 266
       },
       "id": 968,
       "panels": [
@@ -11277,15 +11065,11 @@
     {
       "collapsed": true,
       "datasource": null,
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      },
       "gridPos": {
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 183
+        "y": 267
       },
       "id": 1037,
       "panels": [
@@ -11391,7 +11175,7 @@
       {
         "allValue": null,
         "current": {
-          "selected": true,
+          "selected": false,
           "text": "netdata",
           "value": "netdata"
         },
@@ -11421,7 +11205,7 @@
       {
         "allValue": null,
         "current": {
-          "selected": true,
+          "selected": false,
           "text": "netdata:19999",
           "value": "netdata:19999"
         },
@@ -11804,5 +11588,5 @@
   "timezone": "",
   "title": "Netdata",
   "uid": "netdata",
-  "version": 2
+  "version": 9
 }
